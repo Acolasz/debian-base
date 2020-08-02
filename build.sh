@@ -2,10 +2,7 @@
 
 usage() {
 cat << EOF
-Usage: for Docker build needs a "${ENV_FILE_NAME}" file and it contents following for example:
---------------
-U_VERSION=172
---------------
+Usage: for Docker build needs for a .env called file!
 EOF
 }
 
